@@ -1,0 +1,23 @@
+╭─── Claude Code v2.1.88 ──────────────────────────────────────────────────────╮
+│                                                 │ Tips for getting started   │
+│                  Welcome back!                  │ Run /init to create a CLA… │
+│                                                 │ ────────────────────────── │
+│                     ▐▛███▜▌                     │ Recent activity            │
+│                    ▝▜█████▛▘                    │ No recent activity         │
+│                      ▘▘ ▝▝                      │                            │
+│                                                 │                            │
+│       kimi-k2.5:cloud · API Usage Billing       │                            │
+│   ~\Downloads\expense-tracker\expense-tracker   │                            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+❯ hi what is ur name                                                            
+
+● I'm Claude Code, Anthropic's official CLI assistant. How can I help you today?
+
+❯ my name is sravan                                                             
+
+● Nice to meet you, Sravan! I'll remember that for future conversations.
+
+  Wrote 2 memories (ctrl+o to expand)
+
+● What can I help you with today?
